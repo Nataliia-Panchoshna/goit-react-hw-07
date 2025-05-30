@@ -68,7 +68,7 @@ const ContactForm = () => {
               type="text"
               name="name"
               id={nameId}
-              placeholder="Eugene"
+              placeholder="Nataliia Bud"
             />
             <ErrorMessage name="name" component="span" className={s.error} />
           </Container>
